@@ -49,9 +49,8 @@ a.   KVL:
 
 b.  KCL:
  ![alt text](<kcl 2.png>)
-![
-    
-](<kcl circuit.jpeg>)
+![alt text](<kcl circuit-1.jpeg>)
+
 
 Calculation:
 
