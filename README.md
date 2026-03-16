@@ -44,31 +44,34 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
- 
- 
+ ![alt text](530388673-0764175a-f4cd-419e-bd83-5ec80725c4c7.png)
+ ![alt text](<kvl circuit.jpeg>)
 
 b.  KCL:
- 
+ ![alt text](<kcl 2.png>)
+![
+    
+](<kcl circuit.jpeg>)
 
 Calculation:
 
 a.   KVL:
- 
-
+ ![alt text](<kvl tab1.jpeg>)
+![alt text](<kvl tab 2.jpeg>)
 
 b.  KCL:
-
-
+![alt text](<kcl tab 1.jpeg>)
+![alt text](<kcl tab 2.jpeg>)
 
 
 Tabulation:
 
 a.   KVL:
- 
+ ![alt text](<kvl box.jpeg>)
 
 
 b.  KCL:
-
+![alt text](<kcl box.jpeg>)
 
 
 RESULT:
